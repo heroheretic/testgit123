@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     private void tinhtoan123() {
-        Toast.makeText(this,"asdadsas",Toast.LENGTH_LONG);
+        Toast.makeText(this,"asdasd",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"sadas",Toast.LENGTH_LONG).show();
     }
 }
