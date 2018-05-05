@@ -13,5 +13,9 @@ public class MainActivity extends AppCompatActivity {
     }
     private void tinhtoan123() {
         Toast.makeText(this,"asdasd",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"sadas",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"thay doi 3",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"thay doi 4",Toast.LENGTH_LONG).show();
+
     }
 }
